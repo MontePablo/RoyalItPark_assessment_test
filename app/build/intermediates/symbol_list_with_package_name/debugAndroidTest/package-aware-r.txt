@@ -1,0 +1,3 @@
+com.example.royalitparkassessmenttest.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

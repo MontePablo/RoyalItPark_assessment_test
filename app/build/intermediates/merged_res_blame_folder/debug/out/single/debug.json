@@ -1,0 +1,666 @@
+[
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-ldpi_logo_sign_up.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-ldpi\\logo_sign_up.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_img_10.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\img_10.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-ldpi_logo_intro.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-ldpi\\logo_intro.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_logo_send.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\logo_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_emergency.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\emergency.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_baseline_subscriptions_24.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\baseline_subscriptions_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-ldpi_facebook.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-ldpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_shape_round_corner_pink.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\shape_round_corner_pink.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_shape_profile_page.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\shape_profile_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_gradient_backround.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\gradient_backround.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-xxhdpi_google.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-xxhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_img_5.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\img_5.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_shape_white_solid_black_edge.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\shape_white_solid_black_edge.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_shape_round_corner_offwhite_deep.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\shape_round_corner_offwhite_deep.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_shape_round_corner_offwhite.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\shape_round_corner_offwhite.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-hdpi_logo_login.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-hdpi\\logo_login.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_logo_insert_image.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\logo_insert_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-xxxhdpi_logo_sign_up.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-xxxhdpi\\logo_sign_up.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-v24_overley_transparent.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-v24\\overley_transparent.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_thief.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\thief.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_baseline_checklist_rtl_24.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\baseline_checklist_rtl_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_edittext_background.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_img_11.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\img_11.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-mdpi_logo_login.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-mdpi\\logo_login.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\xml_activity_splash_scene.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\xml\\activity_splash_scene.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-xxxhdpi_google.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-xxxhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_shape_right_bottom_round_corner_white.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\shape_right_bottom_round_corner_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_baseline_app_lock_24.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\baseline_app_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_shape_half_round_corner_white.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\shape_half_round_corner_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_avatar.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-xxhdpi_twitter.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-xxhdpi\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_shape_heading_dashboard_gradient_part2.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\shape_heading_dashboard_gradient_part2.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_backround_chat_receive.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\backround_chat_receive.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_img_4.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\img_4.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_shape_round_corner_white.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\shape_round_corner_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\menu_bottom_menu.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_img_12.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\img_12.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_banner.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\banner.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_img_3.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\img_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_baseline_app_hide_24.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\baseline_app_hide_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-xxxhdpi_twitter.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-xxxhdpi\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-xxxhdpi_logo_login.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-xxxhdpi\\logo_login.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_btn_orange.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\btn_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-xhdpi_twitter.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-xhdpi\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_logo_camera.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\logo_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-v24_logo_facebook.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-v24\\logo_facebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-v24_current_location.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-v24\\current_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_overley_black_filter.jpg.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\overley_black_filter.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-xhdpi_logo_intro.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-xhdpi\\logo_intro.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-xxhdpi_logo_login.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-xxhdpi\\logo_login.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_logo_star.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\logo_star.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-hdpi_twitter.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-hdpi\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_touch.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\touch.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_logo_gig.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\logo_gig.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_poweroff.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\poweroff.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_img_6.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\img_6.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-xxhdpi_logo_sign_up.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-xxhdpi\\logo_sign_up.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_logo_saved.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\logo_saved.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_shape_heading_dashboard_gradient.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\shape_heading_dashboard_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_background_btn_intro1.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\background_btn_intro1.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_logo_home.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\logo_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-mdpi_google.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-mdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_img_9.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\img_9.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_gradient_backround_reverse.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\gradient_backround_reverse.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-xhdpi_logo_login.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-xhdpi\\logo_login.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-xhdpi_facebook.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-xhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\layout_activity_title.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\layout\\activity_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-v24_overley_purple_filter.jpg.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-v24\\overley_purple_filter.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_sim.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\sim.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_trackmobile.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\trackmobile.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-v24_logo_paid.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-v24\\logo_paid.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-ldpi_google.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-ldpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_shape_social_round_corner_white.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\shape_social_round_corner_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_logo_retry_arrow.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\logo_retry_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-mdpi_logo_sign_up.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-mdpi\\logo_sign_up.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_logo_sign_out.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\logo_sign_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_logo_cancel.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\logo_cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-xxhdpi_logo_intro.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-xxhdpi\\logo_intro.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_baseline_upload_file_24.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\baseline_upload_file_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-v24_splash_logo_anim_zoom.gif.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-v24\\splash_logo_anim_zoom.gif"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_item_foreground_selector.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\item_foreground_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_logo_settings.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\logo_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_shape_half_round_corner_darkwhite_border.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\shape_half_round_corner_darkwhite_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_baseline_public_24.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\baseline_public_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_batterylow.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\batterylow.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_logo_gallary.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\logo_gallary.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_img_8.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\img_8.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-xxxhdpi_facebook.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-xxxhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_grey.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\grey.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_img_1.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.royalitparkassessmenttest.app-merged_res-29:/layout_activity_splash.xml.flat",
+        "source": "com.example.royalitparkassessmenttest.app-main-31:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_shape_round_corner.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\shape_round_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-xxxhdpi_logo_intro.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-xxxhdpi\\logo_intro.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_shape_half_round_corner_grey.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\shape_half_round_corner_grey.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_gradient_backround3.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\gradient_backround3.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_shape_half_round_corner_offwhite_deep_border.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\shape_half_round_corner_offwhite_deep_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-ldpi_twitter.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-ldpi\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-v24_logo_google.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-v24\\logo_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-xxhdpi_facebook.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-xxhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-hdpi_facebook.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-hdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_gradient_backround2.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\gradient_backround2.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_background_intro_circle.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\background_intro_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_logo_orders.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\logo_orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-hdpi_logo_sign_up.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-hdpi\\logo_sign_up.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_logo_save.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\logo_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_img_7.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\img_7.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_item_selector.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\item_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_background_btn_intro2.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\background_btn_intro2.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-v24_splash_logo_anim.gif.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-v24\\splash_logo_anim.gif"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_logo_add.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\logo_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-mdpi_logo_intro.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-mdpi\\logo_intro.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-xhdpi_logo_sign_up.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-xhdpi\\logo_sign_up.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_logo_chat.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\logo_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_baseline_hearing_24.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\baseline_hearing_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_gradient_heading_dashboard.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\gradient_heading_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-hdpi_logo_intro.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-hdpi\\logo_intro.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-mdpi_twitter.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-mdpi\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_logo_profile.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\logo_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-xhdpi_google.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-xhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-ldpi_logo_login.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-ldpi\\logo_login.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-v24_logo_twitter.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-v24\\logo_twitter.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_shape_white_solid_thick_offwhite_edge.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\shape_white_solid_thick_offwhite_edge.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_baseline_usb_off_24.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\baseline_usb_off_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_img.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\layout_fragment_gallary.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\layout\\fragment_gallary.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-hdpi_google.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-hdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_baseline_phonelink_erase_24.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\baseline_phonelink_erase_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-v24_app_logo_long.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-v24\\app_logo_long.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_img_2.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\img_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_logo_search.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\logo_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_background_intro.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\background_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable-mdpi_facebook.png.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable-mdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-merged_res-29:\\drawable_logo_work.xml.flat",
+        "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\drawable\\logo_work.xml"
+    }
+]

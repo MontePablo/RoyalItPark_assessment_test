@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="blue">#5171FF</color>
+    <color name="buttonColour">#ECEFFE</color>
+    <color name="buttonText">#6B91FF</color>
+    <color name="col1_100">#613BF0</color>
+    <color name="col1_200">#CBC6FF</color>
+    <color name="col1_300">#EAE5F9</color>
+    <color name="col2_100">#4E59E0</color>
+    <color name="col2_200">#7E87FF</color>
+    <color name="col2_300">#8993FF</color>
+    <color name="grey">#DCDAFF</color>
+    <color name="grey2">#757474</color>
+    <color name="ic_launcher_background">#DF7B48</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="light_white">#EBECF1</color>
+    <color name="offwhite_deep">#D1B9C9</color>
+    <color name="pink">#D736F4</color>
+    <color name="purple">#6143DE</color>
+    <color name="purple_100">#7A86AE</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="transparent">#00EAE5F9</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">RoyalItParkAssessmentTest</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <style name="Base.Theme.RoyalItParkAssessmentTest" parent="Theme.AppCompat.DayNight.NoActionBar">
+        
+        
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="Theme.RoyalItParkAssessmentTest" parent="Base.Theme.RoyalItParkAssessmentTest"/>
+</resources>

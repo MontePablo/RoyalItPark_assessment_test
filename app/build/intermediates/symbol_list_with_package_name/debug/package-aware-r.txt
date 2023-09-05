@@ -3016,6 +3016,8 @@ drawable img_6
 drawable img_7
 drawable img_8
 drawable img_9
+drawable img_banner
+drawable img_banner_2
 drawable item_foreground_selector
 drawable item_selector
 drawable logo_add
@@ -3123,8 +3125,9 @@ drawable shape_half_round_corner_darkwhite_border
 drawable shape_half_round_corner_grey
 drawable shape_half_round_corner_offwhite_deep_border
 drawable shape_half_round_corner_white
-drawable shape_heading_dashboard_gradient
-drawable shape_heading_dashboard_gradient_part2
+drawable shape_heading_gradient
+drawable shape_heading_gradient_2
+drawable shape_heading_gradient_3
 drawable shape_profile_page
 drawable shape_right_bottom_round_corner_white
 drawable shape_round_corner
@@ -3226,8 +3229,6 @@ id animateToEnd
 id animateToStart
 id antiClockwise
 id anticipate
-id apphide
-id applock
 id arc
 id asConfigured
 id async
@@ -3239,7 +3240,6 @@ id backround
 id banner
 id barrier
 id baseline
-id battery
 id beginOnFirstDraw
 id beginning
 id bestChoice
@@ -3256,7 +3256,6 @@ id buttonPanel
 id cache_measures
 id callMeasure
 id cancel_button
-id cardview1
 id carryVelocity
 id center
 id centerCrop
@@ -3279,7 +3278,6 @@ id collapseActionView
 id compress
 id confirm_button
 id constraint
-id contact
 id container
 id content
 id contentPanel
@@ -3293,6 +3291,7 @@ id currentState
 id custom
 id customPanel
 id cut
+id dailyQuotes
 id date_picker_actions
 id decelerate
 id decelerateAndComplete
@@ -3337,7 +3336,6 @@ id elastic
 id eleven
 id email
 id embed
-id emergency
 id end
 id endToStart
 id enterAlways
@@ -3360,7 +3358,6 @@ id fixed
 id flip
 id floating
 id forever
-id format
 id four
 id fragment_container
 id fragment_container_view_tag
@@ -3502,12 +3499,11 @@ id num1
 id num1_switch
 id num2
 id num2_switch
-id num3
-id num3_switch
 id off
 id on
 id onInterceptTouchReturnSwipe
 id one
+id ourEvents
 id outline
 id outward
 id overshoot
@@ -3525,22 +3521,18 @@ id percent
 id pin
 id position
 id postLayout
-id poweroff
 id pressed
 id progress_circular
 id progress_horizontal
 id radio
 id ratio
 id rectangles
-id refer
-id referrals
 id reverseSawtooth
 id right
 id rightToLeft
 id right_icon
 id right_side
 id right_to_left
-id ring
 id rounded
 id row_index_key
 id save_non_transition_alpha
@@ -3588,7 +3580,6 @@ id showCustom
 id showHome
 id showTitle
 id signupBtn
-id sim
 id sin
 id six
 id skipCollapsed
@@ -3619,7 +3610,6 @@ id staticLayout
 id staticPostLayout
 id stop
 id stretch
-id subcription
 id submenuarrow
 id submit_area
 id supportScrollUp
@@ -3657,7 +3647,6 @@ id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
 id textview
-id thief
 id three
 id time
 id title
@@ -3667,9 +3656,7 @@ id toggle
 id top
 id topPanel
 id top_to_bottom
-id touch
 id touch_outside
-id track
 id transitionToEnd
 id transitionToStart
 id transition_current_scene
@@ -3684,9 +3671,9 @@ id unchecked
 id uniform
 id unlabeled
 id up
-id usb
 id useLogo
 id vertical_only
+id viewMoreBtn
 id view_offset_helper
 id view_transition
 id view_tree_lifecycle_owner

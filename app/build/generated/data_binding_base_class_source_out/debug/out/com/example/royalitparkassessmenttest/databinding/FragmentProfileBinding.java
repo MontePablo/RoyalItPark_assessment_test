@@ -45,17 +45,10 @@ public final class FragmentProfileBinding implements ViewBinding {
   @NonNull
   public final SwitchMaterial num2Switch;
 
-  @NonNull
-  public final EditText num3;
-
-  @NonNull
-  public final SwitchMaterial num3Switch;
-
   private FragmentProfileBinding(@NonNull FrameLayout rootView, @NonNull EditText email,
       @NonNull CircularImageView image, @NonNull EditText mobile, @NonNull EditText name,
       @NonNull EditText num1, @NonNull SwitchMaterial num1Switch, @NonNull EditText num2,
-      @NonNull SwitchMaterial num2Switch, @NonNull EditText num3,
-      @NonNull SwitchMaterial num3Switch) {
+      @NonNull SwitchMaterial num2Switch) {
     this.rootView = rootView;
     this.email = email;
     this.image = image;
@@ -65,8 +58,6 @@ public final class FragmentProfileBinding implements ViewBinding {
     this.num1Switch = num1Switch;
     this.num2 = num2;
     this.num2Switch = num2Switch;
-    this.num3 = num3;
-    this.num3Switch = num3Switch;
   }
 
   @Override
@@ -144,20 +135,8 @@ public final class FragmentProfileBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.num3;
-      EditText num3 = ViewBindings.findChildViewById(rootView, id);
-      if (num3 == null) {
-        break missingId;
-      }
-
-      id = R.id.num3_switch;
-      SwitchMaterial num3Switch = ViewBindings.findChildViewById(rootView, id);
-      if (num3Switch == null) {
-        break missingId;
-      }
-
       return new FragmentProfileBinding((FrameLayout) rootView, email, image, mobile, name, num1,
-          num1Switch, num2, num2Switch, num3, num3Switch);
+          num1Switch, num2, num2Switch);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

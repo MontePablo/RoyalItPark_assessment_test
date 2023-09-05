@@ -4,16 +4,16 @@
         "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\layout\\activity_title.xml"
     },
     {
+        "merged": "com.example.royalitparkassessmenttest.app-mergeDebugResources-28:/layout/fragment_home.xml",
+        "source": "com.example.royalitparkassessmenttest.app-main-31:/layout/fragment_home.xml"
+    },
+    {
         "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-mergeDebugResources-28:\\layout\\fragment_home.xml",
         "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\layout\\fragment_home.xml"
     },
     {
         "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-mergeDebugResources-28:\\layout\\activity_signup.xml",
         "source": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-main-31:\\layout\\activity_signup.xml"
-    },
-    {
-        "merged": "com.example.royalitparkassessmenttest.app-mergeDebugResources-28:/layout/activity_splash.xml",
-        "source": "com.example.royalitparkassessmenttest.app-main-31:/layout/activity_splash.xml"
     },
     {
         "merged": "C:\\Users\\mahar\\.gradle\\daemon\\8.0\\com.example.royalitparkassessmenttest.app-mergeDebugResources-28:\\layout\\activity_login.xml",

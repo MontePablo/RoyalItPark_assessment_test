@@ -6,9 +6,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.example.royalitparkassessmenttest.databinding.FragmentGallaryBinding
-import com.example.royalitparkassessmenttest.databinding.FragmentProfileBinding
 
-class GallaryFragment : Fragment() {
+class GallaryFragment: Fragment() {
 
     lateinit var mBinding: FragmentGallaryBinding
     override fun onCreateView(
@@ -20,4 +19,7 @@ class GallaryFragment : Fragment() {
     }
 
 
+}
+interface GalleryOptions{
+    fun gotoGallary()
 }

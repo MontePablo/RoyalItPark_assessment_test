@@ -5,12 +5,12 @@
     <color name="blue">#5171FF</color>
     <color name="buttonColour">#ECEFFE</color>
     <color name="buttonText">#6B91FF</color>
-    <color name="col1_100">#613BF0</color>
+    <color name="col1_100">#df6f56</color>
     <color name="col1_200">#CBC6FF</color>
     <color name="col1_300">#EAE5F9</color>
-    <color name="col2_100">#4E59E0</color>
-    <color name="col2_200">#7E87FF</color>
-    <color name="col2_300">#8993FF</color>
+    <color name="col2_100">#df6f56</color>
+    <color name="col2_200">#f2a02b</color>
+    <color name="col2_300">#ECB361</color>
     <color name="grey">#DCDAFF</color>
     <color name="grey2">#757474</color>
     <color name="ic_launcher_background">#DF7B48</color>

@@ -3,14 +3,14 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="col1_100">#613BF0</color>
+    <color name="col1_100">#df6f56</color>
     <color name="col1_200">#CBC6FF</color>
     <color name="col1_300">#EAE5F9</color>
     <color name="transparent">#00EAE5F9</color>
 
-    <color name="col2_100">#4E59E0</color>
-    <color name="col2_200">#7E87FF</color>
-    <color name="col2_300">#8993FF</color>
+    <color name="col2_100">#df6f56</color>
+    <color name="col2_200">#f2a02b</color>
+    <color name="col2_300">#ECB361</color>
 
 
     <color name="purple_200">#FFBB86FC</color>
@@ -33,4 +33,5 @@
     <color name="purple_100">#7A86AE</color>
     <color name="offwhite_deep">#D1B9C9</color>
     <color name="grey2">#757474</color>
+
 </resources>

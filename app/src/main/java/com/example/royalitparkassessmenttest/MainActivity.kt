@@ -5,7 +5,7 @@ import android.os.Bundle
 import androidx.fragment.app.Fragment
 import com.example.royalitparkassessmenttest.databinding.ActivityMainBinding
 
-class MainActivity : AppCompatActivity() {
+class MainActivity : AppCompatActivity(),GalleryOptions {
     lateinit var mBinding:ActivityMainBinding
     lateinit var fragHome:HomeFragment
     lateinit var fragGallary:GallaryFragment
@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         mBinding= ActivityMainBinding.inflate(layoutInflater)
         setContentView(mBinding.root)
-        fragHome=HomeFragment()
+        fragHome=HomeFragment(this)
         fragGallary=GallaryFragment()
         fragProfile=ProfileFragment()
         replaceFragment(fragHome)
@@ -40,5 +40,9 @@ class MainActivity : AppCompatActivity() {
         val fragmentManager=supportFragmentManager
         val fragmentTransaction=fragmentManager.beginTransaction()
         fragmentTransaction.replace(mBinding.fragmentContainer.id,fragment).commit()
+    }
+
+    override fun gotoGallary() {
+        replaceFragment(fragGallary)
     }
 }

@@ -22,94 +22,37 @@ public final class FragmentHomeBinding implements ViewBinding {
   private final FrameLayout rootView;
 
   @NonNull
-  public final CardView apphide;
-
-  @NonNull
-  public final CardView applock;
-
-  @NonNull
   public final CardView banner;
 
   @NonNull
-  public final CardView battery;
-
-  @NonNull
-  public final CardView cardview1;
-
-  @NonNull
-  public final CardView contact;
-
-  @NonNull
-  public final CardView emergency;
-
-  @NonNull
-  public final CardView format;
+  public final CardView dailyQuotes;
 
   @NonNull
   public final CircularImageView image;
 
   @NonNull
-  public final CardView poweroff;
-
-  @NonNull
-  public final CardView refer;
-
-  @NonNull
-  public final CardView referrals;
-
-  @NonNull
-  public final CardView ring;
-
-  @NonNull
-  public final CardView sim;
-
-  @NonNull
-  public final CardView subcription;
+  public final TextView ourEvents;
 
   @NonNull
   public final TextView textview;
 
   @NonNull
-  public final CardView thief;
+  public final CardView three;
 
   @NonNull
-  public final CardView touch;
+  public final TextView viewMoreBtn;
 
-  @NonNull
-  public final CardView track;
-
-  @NonNull
-  public final CardView usb;
-
-  private FragmentHomeBinding(@NonNull FrameLayout rootView, @NonNull CardView apphide,
-      @NonNull CardView applock, @NonNull CardView banner, @NonNull CardView battery,
-      @NonNull CardView cardview1, @NonNull CardView contact, @NonNull CardView emergency,
-      @NonNull CardView format, @NonNull CircularImageView image, @NonNull CardView poweroff,
-      @NonNull CardView refer, @NonNull CardView referrals, @NonNull CardView ring,
-      @NonNull CardView sim, @NonNull CardView subcription, @NonNull TextView textview,
-      @NonNull CardView thief, @NonNull CardView touch, @NonNull CardView track,
-      @NonNull CardView usb) {
+  private FragmentHomeBinding(@NonNull FrameLayout rootView, @NonNull CardView banner,
+      @NonNull CardView dailyQuotes, @NonNull CircularImageView image, @NonNull TextView ourEvents,
+      @NonNull TextView textview, @NonNull CardView three, @NonNull TextView viewMoreBtn) {
     this.rootView = rootView;
-    this.apphide = apphide;
-    this.applock = applock;
     this.banner = banner;
-    this.battery = battery;
-    this.cardview1 = cardview1;
-    this.contact = contact;
-    this.emergency = emergency;
-    this.format = format;
+    this.dailyQuotes = dailyQuotes;
     this.image = image;
-    this.poweroff = poweroff;
-    this.refer = refer;
-    this.referrals = referrals;
-    this.ring = ring;
-    this.sim = sim;
-    this.subcription = subcription;
+    this.ourEvents = ourEvents;
     this.textview = textview;
-    this.thief = thief;
-    this.touch = touch;
-    this.track = track;
-    this.usb = usb;
+    this.three = three;
+    this.viewMoreBtn = viewMoreBtn;
   }
 
   @Override
@@ -139,51 +82,15 @@ public final class FragmentHomeBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.apphide;
-      CardView apphide = ViewBindings.findChildViewById(rootView, id);
-      if (apphide == null) {
-        break missingId;
-      }
-
-      id = R.id.applock;
-      CardView applock = ViewBindings.findChildViewById(rootView, id);
-      if (applock == null) {
-        break missingId;
-      }
-
       id = R.id.banner;
       CardView banner = ViewBindings.findChildViewById(rootView, id);
       if (banner == null) {
         break missingId;
       }
 
-      id = R.id.battery;
-      CardView battery = ViewBindings.findChildViewById(rootView, id);
-      if (battery == null) {
-        break missingId;
-      }
-
-      id = R.id.cardview1;
-      CardView cardview1 = ViewBindings.findChildViewById(rootView, id);
-      if (cardview1 == null) {
-        break missingId;
-      }
-
-      id = R.id.contact;
-      CardView contact = ViewBindings.findChildViewById(rootView, id);
-      if (contact == null) {
-        break missingId;
-      }
-
-      id = R.id.emergency;
-      CardView emergency = ViewBindings.findChildViewById(rootView, id);
-      if (emergency == null) {
-        break missingId;
-      }
-
-      id = R.id.format;
-      CardView format = ViewBindings.findChildViewById(rootView, id);
-      if (format == null) {
+      id = R.id.dailyQuotes;
+      CardView dailyQuotes = ViewBindings.findChildViewById(rootView, id);
+      if (dailyQuotes == null) {
         break missingId;
       }
 
@@ -193,39 +100,9 @@ public final class FragmentHomeBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.poweroff;
-      CardView poweroff = ViewBindings.findChildViewById(rootView, id);
-      if (poweroff == null) {
-        break missingId;
-      }
-
-      id = R.id.refer;
-      CardView refer = ViewBindings.findChildViewById(rootView, id);
-      if (refer == null) {
-        break missingId;
-      }
-
-      id = R.id.referrals;
-      CardView referrals = ViewBindings.findChildViewById(rootView, id);
-      if (referrals == null) {
-        break missingId;
-      }
-
-      id = R.id.ring;
-      CardView ring = ViewBindings.findChildViewById(rootView, id);
-      if (ring == null) {
-        break missingId;
-      }
-
-      id = R.id.sim;
-      CardView sim = ViewBindings.findChildViewById(rootView, id);
-      if (sim == null) {
-        break missingId;
-      }
-
-      id = R.id.subcription;
-      CardView subcription = ViewBindings.findChildViewById(rootView, id);
-      if (subcription == null) {
+      id = R.id.ourEvents;
+      TextView ourEvents = ViewBindings.findChildViewById(rootView, id);
+      if (ourEvents == null) {
         break missingId;
       }
 
@@ -235,33 +112,20 @@ public final class FragmentHomeBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.thief;
-      CardView thief = ViewBindings.findChildViewById(rootView, id);
-      if (thief == null) {
+      id = R.id.three;
+      CardView three = ViewBindings.findChildViewById(rootView, id);
+      if (three == null) {
         break missingId;
       }
 
-      id = R.id.touch;
-      CardView touch = ViewBindings.findChildViewById(rootView, id);
-      if (touch == null) {
+      id = R.id.viewMoreBtn;
+      TextView viewMoreBtn = ViewBindings.findChildViewById(rootView, id);
+      if (viewMoreBtn == null) {
         break missingId;
       }
 
-      id = R.id.track;
-      CardView track = ViewBindings.findChildViewById(rootView, id);
-      if (track == null) {
-        break missingId;
-      }
-
-      id = R.id.usb;
-      CardView usb = ViewBindings.findChildViewById(rootView, id);
-      if (usb == null) {
-        break missingId;
-      }
-
-      return new FragmentHomeBinding((FrameLayout) rootView, apphide, applock, banner, battery,
-          cardview1, contact, emergency, format, image, poweroff, refer, referrals, ring, sim,
-          subcription, textview, thief, touch, track, usb);
+      return new FragmentHomeBinding((FrameLayout) rootView, banner, dailyQuotes, image, ourEvents,
+          textview, three, viewMoreBtn);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
